@@ -19,3 +19,6 @@ commands used
    babel-node index.js
     curl -METHOD POST http://127.0.0.1:8001  -Body "hello self" -Headers @{"x-asdf"="yodawg"}
 	curl -METHOD POST http://localhost:8001  -Body "hello self" -Headers @{"x-asdf"="yodawg"}
+
+Walkthorugh.gif is attached below
+![proxy_server](https://cloud.githubusercontent.com/assets/3597382/12122851/74d4ffa2-b392-11e5-8bcc-b9e616bf4b39.gif)
